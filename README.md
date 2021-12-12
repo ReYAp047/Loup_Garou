@@ -2,7 +2,9 @@ C'est un projet mobile réasliser avec Java native "Android Studio" dans le cadr
 
 Ce projet a été réaliser par : Mohamed Ali Meftah Alaa Bouassida Smaer Guesmi
 
-Vous trouvez ci-join la maquette qui a été réaliser avec Figma. Lien maquette :
+Vous trouvez ci-join la maquette qui a été réaliser avec Figma.
+
+Lien maquette & vidéo d'essai :https://drive.google.com/drive/folders/1sWKcUw3e5YeCkFT0fCpgVaOAj4bgc-t3?usp=sharing
 
 Régle du jeu Loup Garou: Loup Garoup est un jeu de société d'ambiance dans lequel chaque joueur incarne un villageois ou un loup-garou, et dont le but général est : -Pour les villageois (dont certains ont des pouvoirs ou des particularités) : démasquer et tuer tous les loups-garous. -Pour les loups-garous(Loups) : d'éliminer tous les villageois et ne pas se faire démasquer. Les versions ultérieures introduisent des personnages aux caractères spécifiques, dont certains ont pour but de gagner seul et sont par conséquent en dehors des deux camps de base.
 
