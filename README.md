@@ -8,7 +8,8 @@ Alaa Bouassida
 Smaer Guesmi
 
 Vous trouvez ci-join la maquette qui a été réaliser avec Figma.
-Lien maquette :
+
+Lien maquette & vidéo d'essai :https://drive.google.com/drive/folders/1sWKcUw3e5YeCkFT0fCpgVaOAj4bgc-t3?usp=sharing
 
 Régle du jeu Loup Garou:
 Loup Garoup est un jeu de société d'ambiance dans lequel chaque joueur incarne un villageois ou un loup-garou, et dont le but général est :
