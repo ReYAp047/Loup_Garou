@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_bonjour.xml" value="0.25" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_bonne_nuit.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_loup.xml" value="0.25" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_nametype.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_nuit.xml" value="0.7459807073954984" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_players_number.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_rapport.xml" value="0.33" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_victoire_loup.xml" value="0.2" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_village.xml" value="0.67" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_village_victory.xml" value="0.25" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/activity_vote.xml" value="0.5" />
+        <entry key="..\:/Users/Dali47/Documents/Android/louGaroup-20211129T085221Z-001/louGaroup/app/src/main/res/layout/role_custom_item.xml" value="0.33489583333333334" />
+        <entry key="app/src/main/res/drawable/input.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/roundback.xml" value="0.39010416666666664" />
+        <entry key="app/src/main/res/layout/activity_bonjour.xml" value="0.37395833333333334" />
+        <entry key="app/src/main/res/layout/activity_bonne_nuit.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_loup.xml" value="0.19479166666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_nametype.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_nuit.xml" value="0.75" />
+        <entry key="app/src/main/res/layout/activity_players_number.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_village.xml" value="0.22395833333333334" />
+        <entry key="app/src/main/res/layout/role_custom_item.xml" value="0.35104166666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

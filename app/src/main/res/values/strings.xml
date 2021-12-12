@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">louGaroup</string>
+    <string name="hello">Bienvenue dans Loup Garou !</string>
+    <string name="noo">Pas de text</string>
+    <string name="pasIdole">Il a deja choisie son idole</string>
+    <string name="dejaLiee">Ila a deja liée</string>
+    <string name="dejaViver">Il a deja vue</string>
+    <string name="dejaTuer">Voulez vous viver un ?</string>
+    <string name="dejaUtiliser">Il a tous utiliser ?</string>
+    <string name="montre">Montre toi !</string>
+    <string name="start">Commancer la nuit !</string>
+    <string name="starting">Il faut les réveiller un par un!</string>
+    <string name="isShilded">You can not shild the same persone tow time successively! </string>
+    <string name="Kill">Voulez vous tuer qui ?</string>
+    <string name="Loups">Les loups</string>
+    <string name="noDeath">Il n y a pas de morts aujourd hui</string>
+    <string name="Loup_Garoup">Loup_Garou</string>
+    <string name="chass">Chasseur tu doit</string>
+</resources>
