@@ -1,6 +1,7 @@
 # Loup_Garou
-
-VISIT THE MASTER BRANSH TO SEE THE PROEJT
+----------------------------------------------------------------------------------------------------------------------------
+VISIT THE MASTER BRANCH TO SEE THE PROECT
+----------------------------------------------------------------------------------------------------------------------------
 
 C'est un projet mobile réasliser avec Java native "Android Studio" dans le cadre d'un projet ds pour l'année universitaire 2021/2022.
 
