@@ -20,7 +20,7 @@ Loup Garoup est un jeu de société d'ambiance dans lequel chaque joueur incarne
 -Pour les loups-garous(Loups) : d'éliminer tous les villageois et ne pas se faire démasquer.
 Les versions ultérieures introduisent des personnages aux caractères spécifiques, dont certains ont pour but de gagner seul et sont par conséquent en dehors des deux camps de base.
 
-Pour cette application on a imbriqué 11 roles, dont 10 sont stables.
+Pour cette application on a imbriqué 11 roles, dont 9 sont stables.
 Les roles se génére automatiquement on relation avec le nombre de joueur.
 Chaque joueur va avoir un role d'une maniére automatique par l'application.
 Apprés avoir affécter les roles pour tous les joueurs, le narrateur (c'est perrsonne qui va guider le jeu avec l'aide de l'application) va annoncer le debut du jeu.
