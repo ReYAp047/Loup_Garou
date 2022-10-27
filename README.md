@@ -1,6 +1,6 @@
 C'est un projet mobile réasliser avec Java native "Android Studio" dans le cadre d'un projet ds pour l'année universitaire 2021/2022.
 
-Ce projet a été réaliser par : Mohamed Ali Meftah Alaa Bouassida Smaer Guesmi
+Ce projet a été réaliser par : Mohamed Ali Meftah
 
 Vous trouvez ci-join la maquette qui a été réaliser avec Figma.
 
